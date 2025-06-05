@@ -1,0 +1,4 @@
+body { font-family: sans-serif; }
+    .bar { fill: steelblue; }
+    .bar:hover { fill: orange; }
+    .axis text { font-size: 12px; }
